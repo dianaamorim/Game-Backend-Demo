@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jhqHdmc0i8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\Game Backend Demo\\GameBackend\\GameBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\scalar.aspnetcore\\2.13.20\\scalar.aspnetcore.2.13.20.nupkg.sha512"
+  ],
+  "logs": []
+}
